@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 112" role="img" aria-labelledby="title desc">
+  <title id="title">Marketing4Startups mark</title>
+  <desc id="desc">A focused target with a clear path toward growth.</desc>
+  <rect x="2" y="2" width="108" height="108" rx="28" fill="#14211F"/>
+  <circle cx="43" cy="68" r="30" fill="none" stroke="#93A6EC" stroke-width="2.2" opacity=".78"/>
+  <circle cx="43" cy="68" r="20" fill="none" stroke="#DCE3FA" stroke-width="2.2"/>
+  <circle cx="43" cy="68" r="10" fill="#F8FAF9"/>
+  <circle cx="43" cy="68" r="3.2" fill="#2441C4"/>
+  <path d="M43 68 80 31M62 31h18v18" fill="none" stroke="#B9F274" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+

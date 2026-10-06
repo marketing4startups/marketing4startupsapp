@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 112" role="img" aria-labelledby="title desc">
+  <title id="title">Marketing4Startups</title>
+  <desc id="desc">Marketing4Startups, the startup growth system.</desc>
+  <g transform="translate(0 0)">
+    <rect x="2" y="2" width="108" height="108" rx="28" fill="#14211F"/>
+    <circle cx="43" cy="68" r="30" fill="none" stroke="#93A6EC" stroke-width="2.2" opacity=".78"/>
+    <circle cx="43" cy="68" r="20" fill="none" stroke="#DCE3FA" stroke-width="2.2"/>
+    <circle cx="43" cy="68" r="10" fill="#F8FAF9"/>
+    <circle cx="43" cy="68" r="3.2" fill="#2441C4"/>
+    <path d="M43 68 80 31M62 31h18v18" fill="none" stroke="#B9F274" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="132" y="60" fill="#14211F" font-family="'Bricolage Grotesque', 'Segoe UI', sans-serif" font-size="35" font-weight="700" letter-spacing="-1.25">Marketing4Startups</text>
+  <text x="134" y="85" fill="#52625B" font-family="'IBM Plex Mono', 'Segoe UI Mono', monospace" font-size="11" font-weight="500" letter-spacing="1.65">MARKETING4STARTUPS.NET · THE STARTUP GROWTH SYSTEM</text>
+</svg>
+
