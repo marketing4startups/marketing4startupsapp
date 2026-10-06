@@ -26,4 +26,3 @@ if not errorlevel 1 (
 echo Python 3.9 or newer is required. Install Python and run this file again.
 pause
 exit /b 1
-

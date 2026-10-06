@@ -587,4 +587,3 @@ if __name__ == "__main__":
         ThreadingHTTPServer((host, port), AppHandler).serve_forever()
     except KeyboardInterrupt:
         print("\nServer stopped.")
-

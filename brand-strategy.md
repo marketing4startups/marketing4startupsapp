@@ -68,4 +68,3 @@ Use the device system sans-serif for headings and product copy, with a system mo
 - Use the target rings to explain the channel search: ideas, small tests, proven focus.
 - On small screens, preserve access to every section and let wide tables scroll instead of shrinking their text.
 - Keep the app name as **Marketing4Startups**. Use **M4S** only after the full name has appeared.
-

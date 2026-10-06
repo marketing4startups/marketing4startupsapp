@@ -51,4 +51,3 @@ volumes:
   postgres_data:
   app_private_data:
   pgadmin_data:
-

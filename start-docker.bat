@@ -19,4 +19,3 @@ if not exist .env (
 )
 
 docker compose up --build
-

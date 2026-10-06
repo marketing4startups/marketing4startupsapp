@@ -69,4 +69,3 @@ Passwords are stored as PBKDF2-SHA256 hashes. Login uses generic errors and thro
 ## Privacy and deployment
 
 The app includes data export, individual record removal, and password-confirmed account deletion. Read `privacy-notice.md` and complete `gdpr-process.md` before collecting real user data. This prototype does not provide email verification or recovery, account support, a hosted backup/restore policy, production monitoring, or a privacy-request inbox. Local Docker is for development and private use, not a production service or GDPR certification.
-

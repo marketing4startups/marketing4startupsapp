@@ -219,4 +219,3 @@ END;
 $$;
 REVOKE ALL ON FUNCTION public.initialize_account(text, text) FROM PUBLIC, anon, authenticated;
 GRANT EXECUTE ON FUNCTION public.initialize_account(text, text) TO authenticated;
-

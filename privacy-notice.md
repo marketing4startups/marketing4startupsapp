@@ -56,4 +56,3 @@ Passwords use PBKDF2-SHA256; session identifiers are random and only their hashe
 ## Changes to this notice
 
 Update this notice when purposes, data categories, recipients, transfer locations, retention, or rights controls change. Keep dated versions and record when a material change is shown to signed-in users.
-

@@ -83,4 +83,3 @@ CREATE INDEX IF NOT EXISTS idx_experiments_workspace_created ON experiments(work
 CREATE INDEX IF NOT EXISTS idx_interviews_workspace_created ON customer_interviews(workspace_id, created_at DESC);
 CREATE INDEX IF NOT EXISTS idx_sessions_expiry ON sessions(expires_at);
 CREATE INDEX IF NOT EXISTS idx_auth_attempts_scope_time ON auth_attempts(scope_hash,attempted_at);
-

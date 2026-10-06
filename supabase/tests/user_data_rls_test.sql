@@ -38,4 +38,3 @@ SELECT ok(NOT has_function_privilege('anon', 'public.initialize_account(text,tex
 
 SELECT * FROM finish();
 ROLLBACK;
-

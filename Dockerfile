@@ -9,4 +9,3 @@ RUN useradd --create-home --uid 10001 appuser && mkdir -p /app/data && chown -R 
 USER appuser
 EXPOSE 8000
 CMD ["python", "server.py"]
-
